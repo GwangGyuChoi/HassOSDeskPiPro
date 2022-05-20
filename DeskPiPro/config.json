@@ -12,6 +12,7 @@
   "boot": "auto",
   "devices": ["/dev/ttyUSB0","/dev/ttyUSB1","/dev/ttyUSB2","/dev/ttyUSB3","/dev/ttyUSB4"],
   "host_network": false,
+  "init": false,
   "map": ["config", "ssl", "addons", "backup", "share", "media"],
   "options": {
     "CorF": "F",
